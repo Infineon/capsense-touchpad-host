@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['tch0_0',['tch0',['../group__touchpad__structures.html#aa52caa508c2c84dd69684fff8408a454',1,'mtb_touchpad_pos_t']]],
+  ['tch0_5fx_5fidx_1',['TCH0_X_IDX',['../group__mtb__touchpad__macro.html#gab4889bf1d4de31fa9f38591e29579bba',1,'mtb_touchpad_driver.h']]],
+  ['tch0_5fy_5fidx_2',['TCH0_Y_IDX',['../group__mtb__touchpad__macro.html#ga1a6fa7cfaf856ff4d92bb5e43d9c08a3',1,'mtb_touchpad_driver.h']]],
+  ['tch0_5fz_5fidx_3',['TCH0_Z_IDX',['../group__mtb__touchpad__macro.html#gae0e97125d8ceef00bb5c983bafbfa318',1,'mtb_touchpad_driver.h']]],
+  ['tch1_4',['tch1',['../group__touchpad__structures.html#a20929bd9bcd2495d8ee8d487ac4b84ad',1,'mtb_touchpad_pos_t']]],
+  ['tch1_5fx_5fidx_5',['TCH1_X_IDX',['../group__mtb__touchpad__macro.html#gafe40082c68b6b587a459dfa8da2057a5',1,'mtb_touchpad_driver.h']]],
+  ['tch1_5fy_5fidx_6',['TCH1_Y_IDX',['../group__mtb__touchpad__macro.html#gaecd7c7e3f0f9cae521b4a0b056957935',1,'mtb_touchpad_driver.h']]],
+  ['tch1_5fz_5fidx_7',['TCH1_Z_IDX',['../group__mtb__touchpad__macro.html#ga747995914ab0cb7e9aa992840d026b99',1,'mtb_touchpad_driver.h']]],
+  ['toolchains_8',['Supported Toolchains',['../index.html#autotoc_md4',1,'']]],
+  ['touchpad_20i2c_20host_9',['Touchpad I2C Host',['../group__mtb__touchpad__api.html',1,'CAPSENSE™ Touchpad I2C Host'],['../index.html',1,'CAPSENSE™ Touchpad I2C Host']]],
+  ['touchpad_20i2c_20host_20enumerated_20types_10',['CAPSENSE™ Touchpad I2C Host enumerated types',['../group__touchpad__enum.html',1,'']]],
+  ['touchpad_20i2c_20host_20functions_11',['CAPSENSE™ Touchpad I2C Host functions',['../group__touchpad__functions.html',1,'']]],
+  ['touchpad_20i2c_20host_20macros_12',['Touchpad I2C Host macros',['../group__mtb__touchpad__macro.html',1,'CAPSENSE™ Touchpad I2C Host macros'],['../group__Touchpad.html',1,'CAPSENSE™ Touchpad I2C Host macros']]],
+  ['touchpad_20i2c_20host_20porting_20guide_13',['CAPSENSE™ Touchpad I2C Host porting guide',['../md_port_2PORTING__GUIDE.html',1,'']]],
+  ['touchpad_20i2c_20host_20structures_14',['CAPSENSE™ Touchpad I2C Host structures',['../group__touchpad__structures.html',1,'']]],
+  ['touchpad_5fi2c_5finit_15',['touchpad_i2c_init',['../group__touchpad__i2c__functions.html#gac85e0afad0fe43f3fbb5fce842c94f69',1,'touchpad_i2c_init():&#160;mtb_touchpad_i2c_port.c'],['../group__touchpad__i2c__functions.html#gac85e0afad0fe43f3fbb5fce842c94f69',1,'touchpad_i2c_init(void):&#160;mtb_touchpad_i2c_port.c'],['../group__touchpad__i2c__functions.html#gac85e0afad0fe43f3fbb5fce842c94f69',1,'touchpad_i2c_init(void):&#160;mtb_touchpad_i2c_port_template.c'],['../group__touchpad__i2c__functions.html#gac85e0afad0fe43f3fbb5fce842c94f69',1,'touchpad_i2c_init(void):&#160;mtb_touchpad_i2c_port.c']]],
+  ['touchpad_5fi2c_5fread_16',['touchpad_i2c_read',['../group__touchpad__i2c__functions.html#gad8ee9606264dc9b5ac3ab3a9709627ac',1,'touchpad_i2c_read(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port.c'],['../group__touchpad__i2c__functions.html#gad8ee9606264dc9b5ac3ab3a9709627ac',1,'touchpad_i2c_read(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port.c'],['../group__touchpad__i2c__functions.html#gad8ee9606264dc9b5ac3ab3a9709627ac',1,'touchpad_i2c_read(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port_template.c'],['../group__touchpad__i2c__functions.html#gad8ee9606264dc9b5ac3ab3a9709627ac',1,'touchpad_i2c_read(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port.c']]],
+  ['touchpad_5fi2c_5fwrite_17',['touchpad_i2c_write',['../group__touchpad__i2c__functions.html#ga3351027ebbfcec2b9c06df92faee6fe7',1,'touchpad_i2c_write(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port.c'],['../group__touchpad__i2c__functions.html#ga3351027ebbfcec2b9c06df92faee6fe7',1,'touchpad_i2c_write(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port.c'],['../group__touchpad__i2c__functions.html#ga3351027ebbfcec2b9c06df92faee6fe7',1,'touchpad_i2c_write(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port_template.c'],['../group__touchpad__i2c__functions.html#ga3351027ebbfcec2b9c06df92faee6fe7',1,'touchpad_i2c_write(uint16_t subaddress, uint8_t *data, uint16_t length, void *intf_ptr):&#160;mtb_touchpad_i2c_port.c']]],
+  ['transactions_18',['Required I2C Transactions',['../md_port_2PORTING__GUIDE.html#autotoc_md15',1,'']]],
+  ['types_19',['CAPSENSE™ Touchpad I2C Host enumerated types',['../group__touchpad__enum.html',1,'']]]
+];
